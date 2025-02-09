@@ -1,0 +1,25 @@
+I chose to work with a DC motor with an encoder and a Sharp IR sensor.
+Using these data, a voltage divider circuit was designed.
+Before we changed the design, the exhaust was near a PCB, which led to overheating.
+I set up a number of repositories that correspond to the various subsystems in our project.
+The push-button is relatively simple conceptually; however, it suffers from repeated unwanted triggers that occur due to bouncing.
+Both Qt and RViz are tools you can use to create a GUI.
+For communication with the GUI, a single string with a special character was used, followed by comma-separated values.
+Due to a properly designed architecture, integration was simple but time-consuming.
+The winds were too high for quadcopter operation, i.e., they exceeded the level recommended by the FAA.
+Since we had a substantial number of serial print commands to show the sensor data in the GUI, the code took longer to execute.
+After this, the data are read from the sensor, which is in the form of a high pulse whose duration is the time of flight (in microseconds) of the sound signal.
+The final system is comprised of five individual subsystems.
+Our setup requires a user to log in through the GUI.
+Although the single-board computer was failing, it lasted long enough for us to complete a successful Fall Validation Demonstration.
+All the different containers must be of a similar width, which is around 9 cm.
+The GUI was built using the PySimpleGUI library, which provides several pre-defined UI components, such as buttons and sliders.
+I was responsible for integrating the temperature sensor and writing a PID controller for velocity control of the DC motor.
+The robot did not stop at the edge of the porch, breaking one of its wheels in the resulting fall.
+After a lot of debugging, we were able to get the quadcopter to take off.
+This adapter needs to interface rigidly with the robot and hold a marker array for the camera to track its position.
+The debouncing sequence uses a timer and a user-dictated delay value to filter out unwanted fluctuations in the button signal after it is pressed.
+The CPU speed had to be reduced to 1.3 GHz, or it would shut down due to thermal throttling.
+They are generally made from a semiconducting material that's been heated and compressed to form a temperature-sensitive conducting material.
+Our team 3D-printed the gears for our motor.
+This message is bandwidth-limited, transmitting nominally at 7 Hz.
