@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-03-17T21:57:03Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "TeamI_PDSlayout"
+        },
+        "Owner": "Ankit Aggarwal <ankitagg@andrew.cmu.edu>",
+        "Size": {
+            "X": 95,
+            "Y": 61
+        }
+    }
+}
