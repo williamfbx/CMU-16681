@@ -3,5 +3,5 @@ Subject Name: MRSD Project I
 Subject Code: 16681-A  
 Semester Taken: Spring 2025  
 Instructor: John M. Dolan  
-Grade: TBC  
-Difficulty: TBC/5  
+Grade: A  
+Difficulty: 5/5  
